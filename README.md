@@ -4,6 +4,16 @@ Evently is a university event discovery and registration website for the K Explo
 
 > **Demonstration data:** Event listings, dates, venues, and attendee totals are illustrative sample content. They are not official KIIT event announcements.
 
+## Live Demo
+
+[Visit Evently](https://evently-orpin-chi.vercel.app/)
+
+## Project Links
+
+- 🌐 **Live Website:** [Visit Evently](https://evently-orpin-chi.vercel.app/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/Mohan-77/Evently)
+- 👨‍💻 **Developer:** [Mohan-77](https://github.com/Mohan-77)
+
 ## Features
 
 - Responsive homepage with search, campus and date filters, category browsing, and event discovery
