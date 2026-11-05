@@ -45,7 +45,21 @@ Evently is a university event discovery and registration website for the K Explo
 
 ## Screenshots
 
-Screenshots of the homepage, events listing, categories page, and registration page in the light theme are available in [`docs/screenshots`](docs/screenshots/).
+### Homepage
+
+![Evently homepage](docs/screenshots/homepage.png)
+
+### Events
+
+![Evently events page](docs/screenshots/events.png)
+
+### Categories
+
+![Evently categories page](docs/screenshots/categories.png)
+
+### Registration
+
+![Evently registration page](docs/screenshots/registration.png)
 
 ## Installation
 
