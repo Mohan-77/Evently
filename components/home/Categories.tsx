@@ -1,0 +1,3 @@
+import Link from "next/link";
+import { categories } from "@/data/events";
+export function Categories() { return <section className="section shell"><div className="section-heading"><div><span className="kicker">Find your kind of thing</span><h2>Explore by category</h2></div><Link href="/categories" className="text-link">View all <span>↗</span></Link></div><div className="category-grid">{categories.map((category) => <Link href={`/events?category=${encodeURIComponent(category.name)}`} key={category.name} className={`category-card ${category.color}`}><span className="category-icon">{category.icon}</span><strong>{category.name}</strong><span className="category-arrow">↗</span></Link>)}</div></section>; }
